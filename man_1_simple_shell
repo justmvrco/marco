@@ -1,0 +1,17 @@
+.\" Manpage for a simple shell
+.TH man 8 "21 August 2021" "1.0" "simple shell man page"
+.SH NAME
+simple shell
+.SH SYNOPSIS 
+simple_shell []
+.SH DESCRIPTION
+This is a simple shell
+.SH OPTIONS
+Coming soon ...
+.SH SEE ALSO
+...
+.SH BUGS
+No known bugs
+.SH AUTHORS
+
+Moreira Marco
